@@ -1,9 +1,26 @@
+
 body {
     font-family: Arial, sans-serif;
-    background-color: #f1f8ff;
+    background-color: #f09d5a;
     color: #333;
     margin: 0;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+header {
+
+    background-color: #9adad6;
+}
+
+section {
+
+    background-color: #94eb94;
 }
 
 h1 {
@@ -46,11 +63,7 @@ ul {
     border-top: 2px solid #009933;
     padding-top: 20px;
 }
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f1f8ff;
-    color: #333;
-    margin: 0;
-    padding: 20px;
-    background-image: linear-gradient(to bottom, #ffffff, #f1f8ff); /* Cambiar gradiente de color de fondo */
+
+footer {
+    background-color: #ffff00; 
 }
