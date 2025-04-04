@@ -1,0 +1,31 @@
+﻿body {  
+    font-family: Arial, sans-serif;  
+    line-height: 1.6;  
+    margin: 20px;  
+    padding: 0;  
+}  
+
+h1, h2, h3 {  
+    color: #2C3E50;  
+}  
+
+ul {  
+    list-style-type: none;  
+    padding: 0;  
+}  
+
+header {  
+    margin-bottom: 20px;  
+    border-bottom: 2px solid #2C3E50;  
+}  
+
+section {  
+    margin-bottom: 20px;  
+    padding: 10px;  
+    border: 1px solid #BDC3C7;  
+    background-color: #ECF0F1;  
+}  
+
+a {  
+    color: #2980B9;  
+}  
