@@ -1,69 +1,31 @@
+﻿body {  
+    font-family: Arial, sans-serif;  
+    line-height: 1.6;  
+    margin: 20px;  
+    padding: 0;  
+}  
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f09d5a;
-    color: #333;
-    margin: 0;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-}
+h1, h2, h3 {  
+    color: #2C3E50;  
+}  
 
+ul {  
+    list-style-type: none;  
+    padding: 0;  
+}  
 
-header {
+header {  
+    margin-bottom: 20px;  
+    border-bottom: 2px solid #2C3E50;  
+}  
 
-    background-color: #9adad6;
-}
+section {  
+    margin-bottom: 20px;  
+    padding: 10px;  
+    border: 1px solid #BDC3C7;  
+    background-color: #ECF0F1;  
+}  
 
-section {
-
-    background-color: #94eb94;
-}
-
-h1 {
-    font-size: 28px;
-    font-weight: bold;
-    color: #ff6600;
-    margin-bottom: 10px;
-}
-
-h2 {
-    font-size: 22px;
-    font-weight: bold;
-    color: #009933;
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
-
-p {
-    font-size: 16px;
-    line-height: 1.5;
-    color: #6666ff;
-    margin-bottom: 10px;
-}
-
-strong {
-    font-weight: bold;
-}
-
-ul {
-    list-style-type: disc;
-    margin-left: 20px;
-}
-
-#experiencia {
-    border-top: 2px solid #ff6600;
-    padding-top: 20px;
-}
-
-#comunicacion {
-    border-top: 2px solid #009933;
-    padding-top: 20px;
-}
-
-footer {
-    background-color: #ffff00; 
-}
+a {  
+    color: #2980B9;  
+}  
