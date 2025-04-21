@@ -1,6 +1,6 @@
 # Currículum Personal - Emiliano Zattera
 
-Resolución recomendada:Pantalla de 24 – 1440x900 px
+PANTALLA  21 PULGADAS – 1440x900 px
 
 Descripción del trabajo  
 Para esta entrega se me pidió realizar un Currículum Vitae personal utilizando **HTML** y **CSS**. Se trabajó principalmente la estructura mediante HTML semántico y se aplicaron estilos visuales a través de CSS, incluyendo la organización mediante **Flexbox** para lograr una distribución clara y responsiva del contenido. Aprveche este espacio para compartir trabajos personales de mi emprendiento llamado "Faraon Deco"
